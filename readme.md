@@ -11,10 +11,11 @@
 <br/>
 -Queue
 <br/>
--SinglyLinkedList
+-Singly LinkedList
 <br/>
--(Circular)DoubleLinkedList
+-(Circular)Doubly Linked List
 <br/>
+-Hash Table
 
 
 
@@ -22,7 +23,10 @@
 
 
 ### 정리
-복잡도(시간복잡도) : https://horse-keyboard-0d4.notion.site/caf48095dd8e44bb97433efc62a0247c
-</br>
-</br>
-순차적 자료구조 : https://horse-keyboard-0d4.notion.site/Stack-Queue-57b3ad9127fc4358bd59ed56665ba4a0
+-(시간)복잡도(https://horse-keyboard-0d4.notion.site/caf48095dd8e44bb97433efc62a0247c)
+
+
+-순차적 자료구조(https://horse-keyboard-0d4.notion.site/Stack-Queue-57b3ad9127fc4358bd59ed56665ba4a0)
+
+
+-파이썬 리스트와 배열의 차이(https://horse-keyboard-0d4.notion.site/8b94e95f518d454cbf67f5523e30d13c)
