@@ -11,11 +11,11 @@
 <br/>
 -Queue
 <br/>
--Singly LinkedList
+-Singly LinkedList, (Circular)Doubly Linked List
 <br/>
--(Circular)Doubly Linked List
+-Hash Table, Chaining Hash Table
 <br/>
--Hash Table
+-Heap(Max-Heap)
 
 
 
@@ -30,3 +30,6 @@
 
 
 -파이썬 리스트와 배열의 차이(https://horse-keyboard-0d4.notion.site/8b94e95f518d454cbf67f5523e30d13c)
+
+
+-트리 구조(https://horse-keyboard-0d4.notion.site/5ce25553bb044622878eeb9f5dd2009c)
