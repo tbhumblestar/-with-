@@ -16,6 +16,8 @@
 -Hash Table, Chaining Hash Table
 <br/>
 -Heap(Max-Heap)
+<br/>
+-BinaryTree / BinarySearchTree
 
 
 
