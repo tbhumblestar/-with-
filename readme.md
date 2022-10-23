@@ -25,13 +25,13 @@
 
 
 ### 정리
--(시간)복잡도(https://horse-keyboard-0d4.notion.site/caf48095dd8e44bb97433efc62a0247c)
+-(시간)복잡도(https://horse-keyboard-0d4.notion.site/1481ee2468464f14a4d242f9acfdcb6a)
 
 
--순차적 자료구조(https://horse-keyboard-0d4.notion.site/Stack-Queue-57b3ad9127fc4358bd59ed56665ba4a0)
+-순차적 자료구조(https://horse-keyboard-0d4.notion.site/Stack-Queue-fc91d549daa2412dbc44a584e5c7853e)
 
 
--파이썬 리스트와 배열의 차이(https://horse-keyboard-0d4.notion.site/8b94e95f518d454cbf67f5523e30d13c)
+-파이썬 리스트와 배열의 차이(https://horse-keyboard-0d4.notion.site/25dd9bfaf0d64c3b85541a7729b1c901)
 
 
--트리 구조(https://horse-keyboard-0d4.notion.site/5ce25553bb044622878eeb9f5dd2009c)
+-트리 구조(https://horse-keyboard-0d4.notion.site/af68731b18f845ed9b180a7f23574072)
